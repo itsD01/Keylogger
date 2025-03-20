@@ -11,5 +11,3 @@ _The action of recording (logging) the keys struck on a keyboard, often discreet
 _Even Microsoft has openly confirmed that the final version of Windows 10 features a built-in keylogger “to improve typing and writing functions.”_
 
 
-## License
-_This program is free software; you can redistribute it and/or modify it under the terms of the MIT License (MIT). See [LICENSE](LICENSE) for more details._
